@@ -1,9 +1,7 @@
 #!/bin/bash
 
-hr="-------------------------------------------"
-br=""
 strength=2048
-valid=365	
+valid=36500 #100 years
 
 message="Usage:  sh setup_ca.sh [certificate authority CN]"
 
